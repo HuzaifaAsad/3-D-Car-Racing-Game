@@ -43,7 +43,8 @@ Built as my Final Year Project, this game features AI-controlled opponents, a pr
 ## 📦 Download and Play the Game
 
 You can download and play the `.exe` build here:  
-👉 [Download from Google Drive]([https://your-drive-link-here](https://drive.google.com/file/d/1jnwMIaLlQ-UCpHOa8liLM614qF2uaAOO/view?usp=sharing))
+👉 [Download from Google Drive](https://drive.google.com/file/d/1jnwMIaLlQ-UCpHOa8liLM614qF2uaAOO/view?usp=sharing)
+
 
 > Just extract the zip file and run `3D_Racing_Game.exe`. No installation needed.
 
