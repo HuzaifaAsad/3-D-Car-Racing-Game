@@ -49,6 +49,10 @@ You can download and play the `.exe` build here:
 > Just extract the zip file and run `3D_Racing_Game.exe`. No installation needed.
 
 ---
+## 🎥 Gameplay Demo
+
+👉 [🎬 Watch on Google Drive](https://drive.google.com/file/d/1sSxvJDsp-xuCfhHmNQM0w1NQwdA244cY/view?usp=sharing)
+
 
 ## 🧠 Built With
 
